@@ -36,7 +36,6 @@
 26	Bulgaria	6,948,445	108,560	64<br>
 27	Burkina Faso	20,903,273	273,600	76<br>
 28	Burundi	11,890,784	25,680	463<br>
-29	Côte d'Ivoire	26,378,274	318,000	83<br>
 
 ### Processed
 ----------------------
@@ -67,5 +66,4 @@
 "Brunei	",
 "Bulgaria	",
 "Faso	",
-"Burundi	",
-Côte d'Ivoire	26,378,274	318,000	83<br>
+"Burundi	",<br>
